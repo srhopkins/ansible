@@ -1,0 +1,195 @@
+plaxcdcp004.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxconv001.apollogrp.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdcp001.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdcp006.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdcp005.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxconv004.apollogrp.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdca003.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdcp002.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxconv002.apollogrp.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdca001.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdcp003.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxconv003.apollogrp.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+
+plaxcdca002.ols.phoenix.edu | FAILED | rc=1 >>
+Trying 10.94.220.216...
+Connected to ac-00057209.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.218...
+Connected to ac-00057210.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+Trying 10.94.220.214...
+Connected to ac-00057213.apollogrp.edu.
+Escape character is '^]'.
+Connection closed by foreign host.
+
+

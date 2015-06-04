@@ -1,0 +1,14 @@
+data:
+  image: dockerfile/ansible
+  volumes:
+    - /data
+    - .ssh:/root/.ssh
+    - hosts:/etc/ansible/hosts
+    - install_json.sh:/install_json.sh
+    - shared/:/shared
+#  command: mv /install_json.sh /data
+ansible:
+  image: dockerfile/ansible
+  volumes_from:
+    - data
+  command: bash
